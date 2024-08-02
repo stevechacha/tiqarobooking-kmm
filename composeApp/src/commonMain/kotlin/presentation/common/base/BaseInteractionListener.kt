@@ -1,0 +1,3 @@
+package presentation.common.base
+
+interface BaseInteractionListener
